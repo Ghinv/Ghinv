@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Sufyan, currently taking a degree in Software Engineering.
+
+I am interested in becoming a full stack mobile app developer.
+
+Frontend - Flutter, Java, HTML, PHP, CSS
+Backend - Firebase, mySQL
+
+I am currently learning JavaScript and looking to get into React and React Native for frontend development.
+
+Also looking to learn, Node.js for backend development.
+
+Willing to hear some advice on how to become a better developer.
+
+Reach me on LinkedIn.
+
+
