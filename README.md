@@ -34,6 +34,6 @@ Willing to hear some advice on how to become a better developer.
 
 ## How to Reach Me 📞
 
-Try reaching me on LinkedIn.
+Try to reach me on LinkedIn or Email.
 
 
