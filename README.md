@@ -20,15 +20,15 @@ I am interested in becoming a full stack mobile app developer.
 
 ## Language & Framework 🏗️
 
-* Frontend - Flutter, Java, HTML, PHP, CSS
+* Front-end - HTML, PHP, CSS, JavaScript, Flutter
 
-* Backend - Firebase, mySQL
+* Back-end - Java, Spring Framework
 
 ## What I'm Doing Right now 🪜
 
 I am currently learning JavaScript and looking to get into React and React Native for frontend development.
 
-Also looking to learn, Node.js for backend development.
+Also looking to learn, Java Spring Framework for back-end development.
 
 Willing to hear some advice on how to become a better developer.
 
