@@ -24,6 +24,8 @@ I am interested in becoming a full stack mobile app developer.
 
 * Back-end - Java, Spring Framework
 
+* Database - MySQL, SQlite, PostgreSQL
+
 ## What I'm Doing Right now 🪜
 
 I am currently learning JavaScript and looking to get into React and React Native for frontend development.
