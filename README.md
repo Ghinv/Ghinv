@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Sufyan, currently taking a degree in Software Engineering.
 
-I am interested in becoming a full stack mobile app developer.
+I am interested in becoming a back end developer that focused on Java.
 
 ## Language & Framework 🏗️
 
